@@ -1,5 +1,3 @@
-King0996 README.md 👀
-
 ### Compétances 🛠️
 
 - Node.JS 🦾

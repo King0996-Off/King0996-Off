@@ -8,10 +8,8 @@
 ### Projects 🗂️
 
 - Verokia Skyblock 🌋
-- WarixTeam 🧰
 
 ### Liens 🔗
 
-- Verokia SkyBlock -> https://discord.gg/eC9JqqMK6E
-- WarixTeam -> https://discord.gg/Cs8PYXQ6WA
+- Verokia SkyBlock -> https://discord.gg/zrEmnVFmf3
 - YouTube -> https://www.youtube.com/channel/UC1EuhsEjfXGrWFSqgL4LVIw

@@ -1,15 +1,14 @@
-### Compétances 🛠️
+### My Skills 🌴
 
-- Node.JS 🦾
-- PMMP 🌲
-- HTML 🖥️
-- CSS ✨
+- Pocketmine
+- Node.js
 
-### Projects 🗂️
+### My Project 🦴
 
-- Verokia Skyblock 🌋
+- Verokia Faction
 
-### Liens 🔗
+Discord: https://discord.gg/R2G3MURhFw
 
-- Verokia SkyBlock -> https://discord.gg/zrEmnVFmf3
-- YouTube -> https://www.youtube.com/channel/UC1EuhsEjfXGrWFSqgL4LVIw
+### Contact me 🌮
+
+- Discord: **! King0996#0996**

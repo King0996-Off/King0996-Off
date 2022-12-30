@@ -5,9 +5,9 @@
 
 ### My Project 🦴
 
-- Verokia Faction
+- Quantic Faction
 
-Discord: https://discord.gg/R2G3MURhFw
+Discord: https://discord.gg/Zp4MrrQaP3
 
 ### Contact me 🌮
 

@@ -1,7 +1,7 @@
-### My Skills 🌴
+### Learning 🌴
 
-- Pocketmine
-- Node.js
+- Php
+- JavaScript
 
 ### My Project 🦴
 

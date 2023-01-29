@@ -1,7 +1,9 @@
 ### Learning 🌴
 
 - Php
+- Java
 - JavaScript
+- TypeScript
 
 ### My Project 🦴
 
@@ -11,4 +13,4 @@ Discord: https://discord.gg/Zp4MrrQaP3
 
 ### Contact me 🌮
 
-- Discord: **! King0996#0996**
+- Discord: **! King0996#1151**
